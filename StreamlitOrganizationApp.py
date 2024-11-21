@@ -8,7 +8,7 @@
 from operator import itemgetter
 from GraphMaker import *
 
-st.set_option('deprecation.showPyplotGlobalUse', False)
+#st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # MAKING GROUP AND COLLEGE CLASS
 class Group():
